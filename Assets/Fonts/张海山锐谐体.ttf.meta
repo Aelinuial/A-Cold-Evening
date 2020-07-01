@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 50f133ceb30ad6242898ca0b9332f23a
+timeCreated: 1506952680
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZHSRXT2011-GB
+  fontNames:
+  - ZHSRXT2011-GB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
