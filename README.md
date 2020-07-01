@@ -8,5 +8,9 @@ Unity3d制作，一个关于网络暴力的弹幕小游戏。
 当压力值过大（bad ending）或压力值清空（good ending）时游戏结束。  
 
 程序：长歌承闲、Lemon-XQ  
+美术：长歌承闲  
 
-美术：长歌承闲
+![](https://github.com/Aelinuial/A-Cold-Evening/blob/master/ShowPic/1.jpg)  
+![](https://github.com/Aelinuial/A-Cold-Evening/blob/master/ShowPic/2.jpg)  
+![](https://github.com/Aelinuial/A-Cold-Evening/blob/master/ShowPic/3.jpg)  
+![](https://github.com/Aelinuial/A-Cold-Evening/blob/master/ShowPic/4.jpg)
