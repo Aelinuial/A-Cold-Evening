@@ -7,10 +7,15 @@ Unity3d制作，一个关于网络暴力的弹幕小游戏。
 按下空格键可以吃药，减少压力值。  
 当压力值过大（bad ending）或压力值清空（good ending）时游戏结束。  
 
+社团mini-project产品，给的时间是两周但是实际上可能就用了两天（云gamejam实锤）……  
 程序：长歌承闲、Lemon-XQ  
 美术：长歌承闲  
+已经有种黑历史的意味了（
 
 ![](https://github.com/Aelinuial/A-Cold-Evening/blob/master/ShowPic/1.jpg)  
+
 ![](https://github.com/Aelinuial/A-Cold-Evening/blob/master/ShowPic/2.jpg)  
+
 ![](https://github.com/Aelinuial/A-Cold-Evening/blob/master/ShowPic/3.jpg)  
+
 ![](https://github.com/Aelinuial/A-Cold-Evening/blob/master/ShowPic/4.jpg)
